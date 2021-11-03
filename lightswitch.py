@@ -23,7 +23,6 @@ def switch():
 
 window.configure(bg='black')
 button.config(text='button is off',command=switch)
-button.pack(pady = 20, padx = 20)
 
 # schijf hier tussen je code
 
